@@ -1,0 +1,8 @@
+program
+	write(a);
+	write(b);
+	
+	read(a);
+	read(b);
+	
+endprog;
